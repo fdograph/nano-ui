@@ -1,0 +1,19 @@
+{
+  "name": "nano-ui",
+  "version": "0.0.0",
+  "description": "A custom experimental components library",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdograph/nano-ui.git"
+  },
+  "author": "Fernando Silva @fdograph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdograph/nano-ui/issues"
+  },
+  "homepage": "https://github.com/fdograph/nano-ui#readme"
+}
