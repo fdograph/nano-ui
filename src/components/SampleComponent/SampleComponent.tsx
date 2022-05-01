@@ -1,6 +1,6 @@
 import React from 'react';
 
-interface SampleComponentProps {
+export interface SampleComponentProps {
   message: string;
 }
 
