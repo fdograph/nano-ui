@@ -1,5 +1,5 @@
 import React from 'react';
 
 export const SampleComponent: React.FC = () => {
-  return null;
+  return <h1>This is my sample component</h1>;
 };
