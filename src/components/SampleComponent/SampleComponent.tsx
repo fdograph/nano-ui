@@ -1,5 +1,9 @@
 import React from 'react';
 
-export const SampleComponent: React.FC = () => {
-  return <h1>This is my sample component</h1>;
+interface SampleComponentProps {
+  message: string;
+}
+
+export const SampleComponent: React.FC<SampleComponentProps> = ({ message }) => {
+  return <h1>{message}</h1>;
 };
